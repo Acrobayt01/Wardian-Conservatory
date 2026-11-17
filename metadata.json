@@ -1,0 +1,6 @@
+{
+  "name": "Wardian — Interactive 3D Botanical Terrarium",
+  "description": "An interactive 3D glass Wardian terrarium with procedural flora, 24-hour day/night lighting, and dynamic microclimate weather controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
